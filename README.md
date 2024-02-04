@@ -53,6 +53,6 @@ To run the model on Google Colab, follow these steps:
 
 After running the model, you can find the following outputs:
 
-- **predictions.csv**: CSV file containing the filenames, true labels, and predicted labels for the test dataset.
+- **submission.csv**: CSV file containing the filenames, true labels, and predicted labels for the test dataset.
 - **accuracy_plot.pdf**: PDF file containing the plot of training accuracy and validation accuracy over epochs.
 - **f1_score.pdf**: PDF file containing the F1-score, precision, and recall metrics on the test dataset.
