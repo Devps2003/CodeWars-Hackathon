@@ -1,10 +1,11 @@
-Here's the README file for your project:
 
----
 
 # Video Classification using Convolutional Neural Networks
 
 This project aims to classify videos into real or fake categories using Convolutional Neural Networks (CNNs). The dataset consists of videos obtained from various sources, including Celeb-real, Youtube-real, Celeb-Youtube-fake, and a test set.
+
+## This is the model file drive link
+https://drive.google.com/file/d/1vOGZ2kVkyfVLU0sFIZydaY7rLky3Toh9/view?usp=sharing
 
 ## Models and Techniques Used
 
