@@ -7,6 +7,9 @@ This project aims to classify videos into real or fake categories using Convolut
 ## This is the model file drive link
 https://drive.google.com/file/d/1vOGZ2kVkyfVLU0sFIZydaY7rLky3Toh9/view?usp=sharing
 
+## Disclaimer
+To accommodate our system limitations, we created a reduced dataset from the original provided dataset, as processing the entire 10GB dataset proved impractical and time-consuming. Therefore, our submission and scores are based on this smaller dataset.
+
 ## Models and Techniques Used
 
 1. **Data Preprocessing**: Videos are preprocessed by extracting frames and saving them as images. Each frame is resized to 224x224 pixels and normalized to have pixel values in the range [0, 1].
